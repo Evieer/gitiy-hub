@@ -1,4 +1,4 @@
-tmp/??.png
+tmp/??*.png
 *.php
 public/\!index.php
 !public/**/*.jpg
